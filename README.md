@@ -42,3 +42,11 @@ Your submission will be evaluated based on the following criteria:
 - Report and documentation: clarity, concision, and completeness of the report and documentation, as well as their effectiveness in communicating the key findings and insights.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/05ec27eb-7b41-49ce-b93c-63e146b918a3)
+
+![Image](https://github.com/user-attachments/assets/cfb14ebf-c2ec-41db-8412-8b1091079f27)
+
+![Image](https://github.com/user-attachments/assets/28dd40f4-d70f-48ff-bac5-e11140877e9b)
+
+![Image](https://github.com/user-attachments/assets/054ced5a-5375-4677-b679-d6c831a36506)
