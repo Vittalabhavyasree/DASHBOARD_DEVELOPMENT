@@ -12,9 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*DESCRIPTION*:
-
-The primary objective of this task is to create an interactive dashboard using data visualization tools like Tableau, Power BI, or Dash to visualize a dataset. The dashboard should provide actionable insights, enabling users to explore the data, identify trends, and make informed decisions. This task requires a combination of data analysis, visualization, and design skills to create a user-friendly and informative dashboard.
+*DESCRIPTION*:The primary objective of this task is to create an interactive dashboard using data visualization tools like Tableau, Power BI, or Dash to visualize a dataset. The dashboard should provide actionable insights, enabling users to explore the data, identify trends, and make informed decisions. This task requires a combination of data analysis, visualization, and design skills to create a user-friendly and informative dashboard.
 
 To complete this task, you will need to follow these steps:
 Firstly, you will need to select a dataset to visualize. The dataset should be relevant to a business problem or a real-world scenario, and it should contain a sufficient number of records to enable meaningful analysis. You can use publicly available datasets or collect your own data using surveys, APIs, or other methods.
